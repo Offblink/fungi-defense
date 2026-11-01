@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+
+# local working material, not referenced by any slide
+_media/
+photo/
